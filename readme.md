@@ -8,3 +8,5 @@ git remote set-url origin https://github.com/<профиль>/<имя реп>
 создать хотя бы 1 коммит
 
 git push -u origin
+
+dfgfhfgh
